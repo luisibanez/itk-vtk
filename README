@@ -1,0 +1,2 @@
+This ITK module fits in the new Modular architecture of ITKv4
+and provides functionalities to interface ITK with VTK.
